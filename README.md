@@ -13,7 +13,7 @@ npm install -S @jswork/next-absolute-package
 
 ## usage
 ```js
-import '@feizheng/next-absolute-package';
+import '@jswork/next-absolute-package';
 
 nx.absolutePackage(); // { ...the whole package.json ... }
 nx.absolutePackage('publishConfig.registry'); // https://registry.npmjs.org/
